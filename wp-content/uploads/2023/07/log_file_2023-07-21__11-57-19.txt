@@ -1,0 +1,68 @@
+
+---Archivos descargados---
+Los archivos de importación para Demo 3 ¡han sido descargados correctamente!
+Tiempo de ejecución máximo inicial = 5000
+Información de archivos:
+URL del sitio = http://localhost/wordpress
+Archivo de datos = C:\xampp\htdocs\wordpress/wp-content/themes/dental-care/demo/dental-care-data.xml
+Archivo de widget = C:\xampp\htdocs\wordpress/wp-content/themes/dental-care/demo/widgets.json
+Archivo del personalizador = ¡no definido!
+Archivos de Redux:
+ ¡no definido!
+
+------
+¡Nueva llamada AJAX!
+[WARNING] Failed to import product_cat Clothing
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_cat Hoodies
+[WARNING] Failed to import product_cat Music
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_cat Posters
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_cat Singles
+[WARNING] Failed to import product_cat T-shirts
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import product_cat Albums
+[WARNING] Failed to import "Patient Ninja": Invalid post type product
+
+
+---Importando los widgets---
+Main Sidebar : 
+
+Buscar - Sin título - Importado
+Categorías - Sin título - Importado
+Dental Care: Recent Posts - Recent Posts - Importado
+Nube de etiquetas - Tags - Importado
+
+Shop Sidebar : 
+
+woocommerce_product_categories - Product Categories - El sitio no es compatible con widgets
+woocommerce_products - Products - El sitio no es compatible con widgets
+
+Footer Sidebar 1 : 
+
+Dental Care: Company Info - About Us - Importado
+Dental Care: Social - Sin título - Importado
+
+Footer Sidebar 2 : 
+
+Menú de Navegación - Services - Importado
+
+Footer Sidebar 3 : 
+
+Dental Care: Opening Hours - Opening Hours - Importado
+
+
+
+---ocdi/after_import---
+

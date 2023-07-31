@@ -1,0 +1,105 @@
+/*Icon Select*/
+.icon-selector-wrapper i {
+    font-size: 28px;
+    width: 28px !important;
+    height: 28px !important;
+    margin: 18px !important;
+    display: inline-block;
+    cursor: pointer;
+}
+
+.icon-selector-wrapper .input-hidden{
+    position: absolute;
+    opacity: 0;
+    width: 50px;
+    height: 50px;
+    top: 55%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    -webkit-transform: translate(-50%, -50%);
+}
+
+.icon-selector-wrapper input[type=radio]:checked + label>i {
+  box-shadow: 0 0 0px 3px #77a1ff;
+}
+
+.icon-selector-wrapper .icon-select-item{
+    display: inline-block;
+    position: relative;
+}
+
+.icon-selector-wrapper label{
+    display: inline-block;
+}
+
+.icon-selector-wrapper{
+ flex-basis: 100%
+}
+
+.icon-list-title{
+    text-align: center;
+    display: block;
+}
+
+.elementor-icon-selector-control-field{
+    flex-wrap: wrap;
+}
+
+.icon-list-wrapper li.selected:hover,
+.icon-list-wrapper li:hover{
+    color: #fff;
+    background: #323332;
+}
+
+.icon-list-wrapper li.selected {
+    color: #fff;
+    background: #909090;
+    border-radius: 3px;
+}
+
+.icon-selected {
+    display: inline-block;
+    text-align: center;
+    padding: 20px;
+}
+
+.icon-selected label {
+    display: inline-block;
+    margin: 0 0 0 15px
+}
+
+.icon-selected > i {
+    font-size:36px;
+    width:36px !important;
+    height:36px !important;
+}
+
+
+.wpb_el_type_icon .search {
+    max-width: 230px;
+    border-radius: 3px;
+}
+
+.search {
+    padding: 8px 15px !important;
+    margin-top: 15px !important;
+    float: right;
+}
+.icon-list-wrapper > .icon-list {
+    margin-top: 0px;
+}
+.icon-list-wrapper > .icon-list li {
+    display: inline-block;
+    cursor: pointer;
+    margin-bottom: 0px;
+    text-align: center;
+}
+.icon-list-wrapper > .icon-list label {
+    display: none;
+}
+
+.icon-list-wrapper .icon-list-title{
+    text-align: center;
+    display: block;
+}

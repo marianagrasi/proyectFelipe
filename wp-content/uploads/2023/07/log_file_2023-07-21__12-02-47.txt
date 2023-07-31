@@ -1,0 +1,42 @@
+
+---Archivos descargados---
+Los archivos de importación para Demo 3 ¡han sido descargados correctamente!
+Tiempo de ejecución máximo inicial = 5000
+Información de archivos:
+URL del sitio = http://localhost/wordpress
+Archivo de datos = C:\xampp\htdocs\wordpress/wp-content/themes/dental-care/demo/dental-care-data.xml
+Archivo de widget = C:\xampp\htdocs\wordpress/wp-content/themes/dental-care/demo/widgets.json
+Archivo del personalizador = ¡no definido!
+Archivos de Redux:
+ ¡no definido!
+
+---Importando los widgets---
+Main Sidebar : 
+
+Buscar - Sin título - El widget ya existe
+Categorías - Sin título - El widget ya existe
+Dental Care: Recent Posts - Recent Posts - El widget ya existe
+Nube de etiquetas - Tags - El widget ya existe
+
+Shop Sidebar : 
+
+woocommerce_product_categories - Product Categories - El sitio no es compatible con widgets
+woocommerce_products - Products - El sitio no es compatible con widgets
+
+Footer Sidebar 1 : 
+
+Dental Care: Company Info - About Us - El widget ya existe
+Dental Care: Social - Sin título - El widget ya existe
+
+Footer Sidebar 2 : 
+
+Menú de Navegación - Services - El widget ya existe
+
+Footer Sidebar 3 : 
+
+Dental Care: Opening Hours - Opening Hours - El widget ya existe
+
+
+
+---ocdi/after_import---
+ Slider processed

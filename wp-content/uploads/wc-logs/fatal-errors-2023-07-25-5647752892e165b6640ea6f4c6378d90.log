@@ -1,0 +1,2 @@
+2023-07-25T22:56:36+00:00 CRITICAL Out of memory (allocated 127926272 bytes) (tried to allocate 24576 bytes) en C:\xampp\htdocs\wordpress\wp-includes\pomo\streams.php en la línea 229
+
